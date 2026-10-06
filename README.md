@@ -61,7 +61,6 @@ I'm a **data scientist and AI researcher** with a BSc in Computer Science and an
   <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="40" height="40"/></a>&nbsp;
   <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="40" height="40"/></a>
   <br/><br/>
-  <a href="https://github.com/sciann/sciann" target="_blank"><img src="https://img.shields.io/badge/SciANN-Physics--Informed_NNs-2C9AB7?style=flat-square" alt="SciANN"/></a>
 </div>
 
 #### 🤖 Generative AI, LLMs & Agentic AI
