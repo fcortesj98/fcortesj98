@@ -1,7 +1,6 @@
-<!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C9AB7&height=210&section=header&text=Felipe%20Cort%C3%A9s%20Jaramillo&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=PhD%20in%20Applied%20AI%20%C2%B7%20Hybrid%20Modeling%20%C2%B7%20Generative%20%26%20Agentic%20AI&descSize=17&descAlignY=58&animation=fadeIn" alt="Felipe Cortés Jaramillo" />
+<h1>Hi there 👋, I'm Felipe Cortés Jaramillo</h1>
 
 <a href="https://github.com/fcortesj98">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=2C9AB7&center=true&vCenter=true&width=640&lines=Physics-informed+%2B+data-driven+%3D+hybrid+models;Building+with+LLMs%2C+RAG+and+AI+agents;From+chemical+reactors+to+agentic+systems;PhD+%40+IFPEN+%C3%97+Universit%C3%A9+de+Lorraine" alt="Typing SVG" />
@@ -28,30 +27,14 @@
 
 ### 🧐 About Me
 
-I'm a **data scientist and AI researcher** with a background in computer science and software engineering. I'm doing a **PhD in Applied Artificial Intelligence** through a collaboration between [IFP Energies nouvelles (IFPEN)](https://www.ifpenergiesnouvelles.com/) and the [Université de Lorraine](https://www.univ-lorraine.fr/), where I combine machine learning with chemical kinetic models. I'm driven by the tangible impact that code can have on industry and society.
+I'm a **data scientist and AI researcher** with a BSc in Computer Science and an **MSc in Data Science**. I'm now doing a **PhD in Applied AI** at [IFPEN](https://www.ifpenergiesnouvelles.com/) and the [Université de Lorraine](https://www.univ-lorraine.fr/), combining machine learning with chemical kinetic models.
 
-- 🔬 **Current focus:** Hybrid and **physics-informed machine learning** for reactor modeling: embedding prior reaction knowledge into AI models to cut development time and improve classical kinetic models (grey-box modeling, model calibration, model correction).
-- 🤖 **Passion beyond the PhD:** **Generative AI**, **LLMs**, **RAG** and **agentic AI**: building systems that retrieve, reason, use tools and act.
-- 📚 **Currently learning:** Completing the [IBM RAG and Agentic AI Professional Certificate](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai): RAG pipelines, vector databases, multimodal apps, LangChain/LangGraph, CrewAI, AutoGen, BeeAI and MCP.
-- 🎯 **Looking forward:** After my PhD (expected late 2027), I'm looking for roles as an **LLM / GenAI Engineer**, **Agentic AI Engineer**, or **Applied Scientist** working on generative and agentic systems, as well as **physics-informed and hybrid modeling** roles bringing AI into industry.
-- 🤝 **Open to collaborate on:** Physics-informed ML, hybrid modeling, scientific ML, and open-source RAG and agent projects.
-- 💬 **Ask me about:** Hybrid modeling, PINNs, data pipelines at scale, and how to make LLM agents actually useful.
+- 🔬 **Current focus:** Hybrid and **physics-informed ML** for reactor modeling.
+- 🤖 **Passion:** **Generative AI**, **LLMs**, **RAG** and **agentic AI**.
+- 📚 **Learning:** The [IBM RAG and Agentic AI Professional Certificate](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai).
+- 🎯 **Looking forward:** After my PhD (late 2027), roles as an **LLM / GenAI Engineer**, **Agentic AI Engineer** or **Applied Scientist**, or in **physics-informed and hybrid modeling** for industry.
 - 🌍 **Languages:** 🇬🇧 English (bilingual) · 🇪🇸 Spanish (native) · 🇫🇷 French (full professional)
-- ⚡ **Off the clock:** Robotics 🦾 · Astronomy 🔭 · Archery 🏹 · Climbing 🧗 · Reading 📖
-
----
-
-### 🧭 Path So Far
-
-| When | Role | Where |
-|:--|:--|:--|
-| 2024 – now | 🎓 **PhD Candidate**, Applied AI & Hybrid Modeling | IFPEN × Université de Lorraine |
-| 2024 | 🧪 **AI Research Intern**, hybrid ML for kinetic models (SciANN, PyTorch) | IFP Energies nouvelles |
-| 2023 | 👁️ **AI Researcher**, CNN with region-of-interest mechanism for lighting estimation | Laboratoire Hubert Curien |
-| 2020 – 2022 | 🗄️ **Data Engineer**, big-data ingestion with PySpark, Hadoop and Impala | Bancolombia |
-| 2019 – 2020 | 💻 **Software Engineer**, web apps with Node, TypeScript and CI/CD on AWS | Bancolombia |
-
-<sub>🎓 MSc Data Science, Université Jean Monnet / Université de Lyon · BSc Computer Science (Systems Engineering), Universidad EAFIT</sub>
+- ⚡ **Off the clock:** Robotics · Astronomy · Archery · Climbing · Reading
 
 ---
 
@@ -128,7 +111,5 @@ I'm a **data scientist and AI researcher** with a background in computer science
 <div align="center">
 
 <sub>⭐ Thanks for stopping by! Feel free to reach out if you'd like to talk hybrid modeling, LLMs or agents.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C9AB7&height=110&section=footer" alt="" />
 
 </div>
