@@ -33,7 +33,7 @@ I'm a **data scientist and AI researcher** with a BSc in Computer Science and an
 - 🤖 **Passion:** **Generative AI**, **LLMs**, **RAG** and **agentic AI**.
 - 📚 **Learning:** The [IBM RAG and Agentic AI Professional Certificate](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai).
 - 🎯 **Looking forward:** After my PhD (late 2027), roles as an **LLM / GenAI Engineer**, **Agentic AI Engineer** or **Applied Scientist**, or in **physics-informed and hybrid modeling** for industry.
-- 🌍 **Languages:** 🇬🇧 English (bilingual) · 🇪🇸 Spanish (native) · 🇫🇷 French (full professional)
+- 🌍 **Languages:** English (bilingual) · Spanish (native) · French (full professional)
 - ⚡ **Off the clock:** Robotics · Astronomy · Archery · Climbing · Reading
 
 ---
