@@ -3,7 +3,7 @@
 <h1>Hi there 👋, I'm Felipe Cortés Jaramillo</h1>
 
 <a href="https://github.com/fcortesj98">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=2C9AB7&center=true&vCenter=true&width=640&lines=Physics-informed+%2B+data-driven+%3D+hybrid+models;Building+with+LLMs%2C+RAG+and+AI+agents;From+chemical+reactors+to+agentic+systems;PhD+%40+IFPEN+%C3%97+Universit%C3%A9+de+Lorraine" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=2C9AB7&center=true&vCenter=true&width=640&lines=Physics-informed+%2B+data-driven+%3D+hybrid+models;Building+with+LLMs%2C+RAG+and+AI+agents" alt="Typing SVG" />
 </a>
 
 <p>
