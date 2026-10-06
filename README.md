@@ -25,7 +25,7 @@
 
 ---
 
-### 🧐 About Me
+<h3 align="center">🧐 About Me</h3>
 
 I'm a **data scientist and AI researcher** with a BSc in Computer Science and an **MSc in Data Science**. I'm now doing a **PhD in Applied AI** at [IFPEN](https://www.ifpenergiesnouvelles.com/) and the [Université de Lorraine](https://www.univ-lorraine.fr/), combining machine learning with chemical kinetic models.
 
@@ -38,9 +38,9 @@ I'm a **data scientist and AI researcher** with a BSc in Computer Science and an
 
 ---
 
-### 🛠️ Languages and Tools
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-#### 💻 Programming Languages
+<h4 align="center">💻 Programming Languages</h4>
 <div align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/></a>&nbsp;
   <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" title="R" width="40" height="40"/></a>&nbsp;
@@ -52,7 +52,7 @@ I'm a **data scientist and AI researcher** with a BSc in Computer Science and an
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/></a>
 </div>
 
-#### 🧠 Data Science & Machine Learning
+<h4 align="center">🧠 Data Science & Machine Learning</h4>
 <div align="center">
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40"/></a>&nbsp;
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40"/></a>&nbsp;
@@ -62,7 +62,7 @@ I'm a **data scientist and AI researcher** with a BSc in Computer Science and an
   <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="40" height="40"/></a>
 </div>
 
-#### 🤖 Generative AI, LLMs & Agentic AI
+<h4 align="center">🤖 Generative AI, LLMs & Agentic AI</h4>
 <div align="center">
   <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" title="Hugging Face" width="40" height="40"/></a>&nbsp;
   <a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.simpleicons.org/langchain/7FC8FF" alt="LangChain" title="LangChain" width="40" height="40"/></a>&nbsp;
@@ -78,7 +78,7 @@ I'm a **data scientist and AI researcher** with a BSc in Computer Science and an
   <a href="https://beeai.dev/" target="_blank"><img src="https://img.shields.io/badge/BeeAI-Agents-F5B700?style=flat-square" alt="BeeAI"/></a>
 </div>
 
-#### 🗄️ Data Engineering & Databases
+<h4 align="center">🗄️ Data Engineering & Databases</h4>
 <div align="center">
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL / SQL" width="40" height="40"/></a>&nbsp;
   <a href="https://spark.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark" title="Apache Spark / PySpark" width="40" height="40"/></a>&nbsp;
@@ -86,7 +86,7 @@ I'm a **data scientist and AI researcher** with a BSc in Computer Science and an
   <a href="https://www.databricks.com/" target="_blank"><img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" title="Databricks" width="40" height="40"/></a>
 </div>
 
-#### 🌐 Web & Backend Development
+<h4 align="center">🌐 Web & Backend Development</h4>
 <div align="center">
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.simpleicons.org/flask/3BABC3" alt="Flask" title="Flask" width="40" height="40"/></a>&nbsp;
   <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/></a>&nbsp;
@@ -95,7 +95,7 @@ I'm a **data scientist and AI researcher** with a BSc in Computer Science and an
   <a href="https://jmeter.apache.org/" target="_blank"><img src="https://cdn.simpleicons.org/apachejmeter/D22128" alt="Apache JMeter" title="Apache JMeter" width="40" height="40"/></a>
 </div>
 
-#### ☁️ DevOps, Cloud & Tools
+<h4 align="center">☁️ DevOps, Cloud & Tools</h4>
 <div align="center">
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/></a>&nbsp;
   <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40"/></a>&nbsp;
