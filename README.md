@@ -31,7 +31,7 @@ I'm a **data scientist and AI researcher** with a BSc in Computer Science and an
 
 - 🔬 **Current focus:** Hybrid and **physics-informed ML** for reactor modeling.
 - 🤖 **Passion:** **Generative AI**, **LLMs**, **RAG** and **agentic AI**.
-- 🎓 **Certified:** [IBM RAG and Agentic AI Professional Certificate](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai) (Coursera) · [View credential](https://www.coursera.org/account/accomplishments/professional-cert/DUOS55RUAGFC)
+- 🎓 **Certified:** [IBM RAG and Agentic AI Professional Certificate](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai) · [View credential](https://www.coursera.org/account/accomplishments/professional-cert/DUOS55RUAGFC)
 - 🎯 **Looking forward:** After my PhD (late 2027), roles as an **LLM / GenAI Engineer**, **Agentic AI Engineer** or **Applied Scientist**, or in **physics-informed and hybrid modeling** for industry.
 - 🌍 **Languages:** English (bilingual) · Spanish (native) · French (full professional)
 - ⚡ **Off the clock:** Board games · Astronomy · Archery · Climbing · Reading
